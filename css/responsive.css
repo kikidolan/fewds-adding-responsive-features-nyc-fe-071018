@@ -17,4 +17,14 @@
     height:35px;
     width:35px;
   }
+  #logo h2 {
+    font:2.2em;
+  }
+  social {
+    top:72px;
+  }
+  
+  p.col-3 {
+    
+  }
 }
